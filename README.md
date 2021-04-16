@@ -9,3 +9,6 @@ The classification was attempted with Logistic Regression and Multinomial Naive 
 
 -Single Label classification of news to detect genre (+90% accuracy)
 
+
+[Link to datasets](https://drive.google.com/drive/folders/1X8f1u6gTFfL9wGcoQjPe5DWa6vOSSvGw?usp=sharing)
+
